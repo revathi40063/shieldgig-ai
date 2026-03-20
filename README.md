@@ -1,5 +1,5 @@
 # 🛡️ ShieldGig AI
-# 🚀 AI-powered insurance platform protecting gig workers from income loss due to real-world disruptions.
+  🚀 AI-powered insurance platform protecting gig workers from income loss due to real-world disruptions.
 ### AI-Powered Parametric Insurance for Gig Workers
 
 ---
@@ -132,7 +132,7 @@ npm run dev
 
 ## 🎥 Demo Video
 
-(Add your video link here)
+https://youtu.be/LoOpevgMBKY
 
 ---
 
