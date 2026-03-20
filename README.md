@@ -1,5 +1,5 @@
 # 🛡️ ShieldGig AI
-
+# 🚀 AI-powered insurance platform protecting gig workers from income loss due to real-world disruptions.
 ### AI-Powered Parametric Insurance for Gig Workers
 
 ---
@@ -43,8 +43,8 @@ This ensures **zero paperwork and instant financial support**.
 
 ### Example
 
-Ramesh, a Swiggy delivery partner, cannot work during heavy rainfall.
-ShieldGig AI automatically compensates his lost earnings.
+> Ramesh, a Swiggy delivery partner, cannot work during heavy rainfall.  
+> ShieldGig AI automatically compensates his lost earnings.
 
 ---
 
